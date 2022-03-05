@@ -1,0 +1,30 @@
+.container{
+  margin: auto;
+  width: 50%;
+}
+h1{
+  font-weight: 100px;
+  text-align: center;
+}
+.fnbox{
+  width: 700px;
+  justify-content: center;
+  margin: auto;
+}
+.fromcontainer{
+  display: flex;
+  justify-content: center;
+
+}
+.form-select{
+  width: 350px;
+}
+.container2{
+  display: flex;
+  margin: 15px;
+  justify-content: center;
+}
+.container3{
+  display: flex;
+  justify-content: center;
+}
